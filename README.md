@@ -21,3 +21,6 @@ enter input
 
 ## Sample input and test case
 refer the unit test documents
+
+## Assumptions
+refer the unit test documents
