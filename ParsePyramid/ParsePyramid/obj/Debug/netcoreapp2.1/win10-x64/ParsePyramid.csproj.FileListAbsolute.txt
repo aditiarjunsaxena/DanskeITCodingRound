@@ -1,0 +1,14 @@
+C:\Users\A313329\source\repos\ParsePyramid\ParsePyramid\bin\Debug\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\A313329\source\repos\ParsePyramid\ParsePyramid\bin\Debug\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\A313329\source\repos\ParsePyramid\ParsePyramid\bin\Debug\netcoreapp2.1\win10-x64\ParsePyramid.exe
+C:\Users\A313329\source\repos\ParsePyramid\ParsePyramid\bin\Debug\netcoreapp2.1\win10-x64\ParsePyramid.deps.json
+C:\Users\A313329\source\repos\ParsePyramid\ParsePyramid\bin\Debug\netcoreapp2.1\win10-x64\ParsePyramid.runtimeconfig.json
+C:\Users\A313329\source\repos\ParsePyramid\ParsePyramid\bin\Debug\netcoreapp2.1\win10-x64\ParsePyramid.runtimeconfig.dev.json
+C:\Users\A313329\source\repos\ParsePyramid\ParsePyramid\bin\Debug\netcoreapp2.1\win10-x64\ParsePyramid.dll
+C:\Users\A313329\source\repos\ParsePyramid\ParsePyramid\bin\Debug\netcoreapp2.1\win10-x64\ParsePyramid.pdb
+C:\Users\A313329\source\repos\ParsePyramid\ParsePyramid\obj\Debug\netcoreapp2.1\win10-x64\ParsePyramid.csprojAssemblyReference.cache
+C:\Users\A313329\source\repos\ParsePyramid\ParsePyramid\obj\Debug\netcoreapp2.1\win10-x64\ParsePyramid.csproj.CoreCompileInputs.cache
+C:\Users\A313329\source\repos\ParsePyramid\ParsePyramid\obj\Debug\netcoreapp2.1\win10-x64\ParsePyramid.AssemblyInfoInputs.cache
+C:\Users\A313329\source\repos\ParsePyramid\ParsePyramid\obj\Debug\netcoreapp2.1\win10-x64\ParsePyramid.AssemblyInfo.cs
+C:\Users\A313329\source\repos\ParsePyramid\ParsePyramid\obj\Debug\netcoreapp2.1\win10-x64\ParsePyramid.dll
+C:\Users\A313329\source\repos\ParsePyramid\ParsePyramid\obj\Debug\netcoreapp2.1\win10-x64\ParsePyramid.pdb
